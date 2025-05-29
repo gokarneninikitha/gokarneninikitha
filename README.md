@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Nikitha Gokarneni
 
-<!--
-**gokarneninikitha/gokarneninikitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps & Cloud Engineer** | AWS | CI/CD | Infrastructure as Code  
+🎯 Passionate about automating deployments, building resilient infrastructure, and streamlining workflows using modern DevOps tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Cloud**: AWS (Lambda, EC2, S3, IAM, CloudWatch)
+- **CI/CD**: GitHub Actions, Jenkins, Tidal, Bitbucket Pipelines
+- **IaC**: Terraform, AWS CloudFormation
+- **Scripting**: Python, Shell (Bash)
+- **Containers**: Docker
+- **Monitoring**: CloudWatch, Grafana (basic)
+- **Version Control**: Git, GitHub
+
+---
+
+### 👩‍💻 What I’m Working On
+- 🔄 Automating CI/CD workflows for AWS Lambda deployments
+- 📦 Streamlining infrastructure provisioning with Terraform
+- 🔐 Improving deployment security and cost optimization in AWS
+
+---
+
+### 🌱 Currently Learning
+- Kubernetes and Helm
+- AWS DevOps Professional certification content
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: [gokarneninikitha@gmail.com](mailto:gokarneninikitha@gmail.com)
+- 🌐 GitHub: [github.com/gokarneninikitha](https://github.com/gokarneninikitha)
+- 📸 Instagram: [@nikitha_gokarneni](https://www.instagram.com/nikitha_gokarneni)
+
+---
+
+⚡ _"Automation is my favorite superpower. If it can be scripted, I’m already halfway there."_  
