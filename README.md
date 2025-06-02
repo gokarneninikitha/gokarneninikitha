@@ -1,32 +1,35 @@
-## Hi there 👋 I'm Nikitha Gokarneni
+## 👋 Hi there, I'm Nikitha Gokarneni
+🔎 Data Engineer / Analyst | Healthcare & Banking | Cloud Data Workflows | BI Reporting
+💡 I specialize in building robust ETL/ELT pipelines, automating data workflows, and delivering impactful insights through modern BI tools. My background spans healthcare and core banking domains, with a focus on cloud-native solutions and compliance-driven data practices.
 
-🚀 **DevOps & Cloud Engineer** | AWS | CI/CD | Infrastructure as Code  
-🎯 Passionate about automating deployments, building resilient infrastructure, and streamlining workflows using modern DevOps tools.
+🛠️ Tech Stack
+Cloud Platforms: AWS (EC2, S3, Lambda, Glue, Redshift, CloudWatch), Azure (ADF, Synapse), GCP (BigQuery, Composer, Dataflow, Vertex AI)
 
----
+Data Engineering: Databricks, Apache Spark, PySpark, Airflow, dbt, SSIS
 
-### 🛠️ Tech Stack
-- **Cloud**: AWS (Lambda, EC2, S3, IAM, CloudWatch)
-- **CI/CD**: GitHub Actions, Jenkins, Tidal, Bitbucket Pipelines
-- **IaC**: Terraform, AWS CloudFormation
-- **Scripting**: Python, Shell (Bash)
-- **Containers**: Docker
-- **Monitoring**: CloudWatch, Grafana (basic)
-- **Version Control**: Git, GitHub
+Scripting & Automation: Python, SQL, Shell Scripting (BSH), PowerShell
 
----
+Monitoring & Testing: AWS CloudWatch, Z-unit, Tidal Automation/Scheduler, PyTest
 
-### 👩‍💻 What I’m Working On
-- 🔄 Automating CI/CD workflows for AWS Lambda deployments
-- 📦 Streamlining infrastructure provisioning with Terraform
-- 🔐 Improving deployment security and cost optimization in AWS
+Databases & Formats: PostgreSQL, MySQL, SQL Server, Snowflake, MongoDB, Avro, Parquet, JSON
 
----
+Visualization & BI: Power BI, Tableau, Looker
 
-### 🌱 Currently Learning
-- Kubernetes and Helm
-- AWS DevOps Professional certification content
+Tools & Collaboration: Git, GitHub, Jenkins, Terraform, Jira, Confluence, SharePoint
 
+👩‍💻 What I’m Working On
+🔄 Automating high-volume clinical and financial data pipelines using Databricks and Airflow
+
+📈 Creating interactive BI dashboards and predictive models for clinical and portfolio insights
+
+🔐 Enhancing monitoring and security in ETL workflows across multi-cloud environments
+
+🌱 Currently Learning
+Advanced orchestration using Kubernetes and Helm
+
+Deepening skills in data compliance, observability, and cloud cost optimization
+
+Preparing for AWS DevOps Engineer – Professional certification
 ---
 
 ### 📫 Connect With Me
